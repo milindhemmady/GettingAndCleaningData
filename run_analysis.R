@@ -1,7 +1,6 @@
 library(dplyr)
 
-# Setup varialbles, lists, factors and functions
-
+# Setup variables, lists, factors and functions
 # Setup folder for data
 datafolder = "./UCI HAR Dataset"
 
